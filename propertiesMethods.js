@@ -1,7 +1,7 @@
 let myArray1 = [1, 2, 3, 4, 5];
 
 // 1. Console log the length of myArray1
-console.log(myArray1); // Should print 5
+console.log( "length"+ myArray1.length); // Should print 5
 
 
 
