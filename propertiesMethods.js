@@ -48,5 +48,5 @@ console.log(myArray5); // Should print [1, 2, 3, 4]
 // Look up how a spread operator works.
 //  - Try combing a couple of the arrays above using it.
 
-const numbersCombined = [...myArray3, ...myArray5];
-console.log(numbersCombined);
+const arraysCombined = [...myArray3, ...myArray5];
+console.log(arraysCombined);
